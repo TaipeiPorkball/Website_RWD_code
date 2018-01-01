@@ -1004,8 +1004,9 @@ header .middle
     width: 1024px;
     height: 94px;
     margin-top: 50px;
+    color: #FFF;
     font-size:16px;
-    line-height: 5.5;
+    line-height: 1.2;
   }
   .another
   {
